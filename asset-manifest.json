@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/dayplanner/static/css/main.fac264b6.css",
+    "main.css": "/dayplanner/static/css/main.4d629e01.css",
     "main.js": "/dayplanner/static/js/main.a1adb182.js",
     "index.html": "/dayplanner/index.html",
-    "main.fac264b6.css.map": "/dayplanner/static/css/main.fac264b6.css.map",
+    "main.4d629e01.css.map": "/dayplanner/static/css/main.4d629e01.css.map",
     "main.a1adb182.js.map": "/dayplanner/static/js/main.a1adb182.js.map"
   },
   "entrypoints": [
-    "static/css/main.fac264b6.css",
+    "static/css/main.4d629e01.css",
     "static/js/main.a1adb182.js"
   ]
 }
